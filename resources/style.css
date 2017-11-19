@@ -3,6 +3,26 @@
   position: relative;
 }
 
+.sub_header{
+  position: relative;
+}
+
+.sub_image h3{
+  position: absolute;
+  top: 0.5%;
+
+  left: 43%;
+  Color: white;
+  font-size: 20px;
+
+}
+
+.shrink_height {
+
+  height: 40px;
+  width: 150%;
+}
+
 h1 {
 
   text-align: center;
@@ -73,4 +93,19 @@ h2,h3 {
   color: white;
   font-size: 25px;
   margin-bottom: 10px;
+}
+
+span {
+  color: white;
+}
+
+.white {
+  color: white;
+}
+
+
+.footer {
+  background-color: gray;
+  height: 20px;
+  width: 150%;
 }
